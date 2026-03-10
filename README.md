@@ -53,12 +53,3 @@
   </p>
 </div>
 
-<hr style="border: 1px solid #d7b56d; opacity: 0.2; margin: 30px 0;">
-
-<h2 align="center" style="color: #d7b56d;">📈 Analíticas de Desarrollo</h2>
-<p align="center" style="color: #999; font-size: 14px;">Métricas actualizadas en tiempo real desde la actividad del repositorio.</p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Henry-AbantoV&bg_color=2a2a29&color=d7b56d&line=e31e24&point=ffffff&area=true&hide_border=true&custom_title=Historial%20de%20Contribuciones" alt="Gráfico de Contribuciones" width="90%" />
-</div>
-
